@@ -16,7 +16,7 @@ import java.util.List;
 @Service
 public class FaceDetectionService {
 
-    @Value("${computervision.subscriptionKey}")
+    @Value("${subscriptionKey}")
     private String subscriptionKey;
     @Value("${computervision.endpoint}")
     private String endpoint;
