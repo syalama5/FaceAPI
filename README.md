@@ -17,7 +17,7 @@ Verification is one-to-one matching that takes two faces and returns whether the
 [Additional resources] https://docs.microsoft.com/en-us/azure/cognitive-services/face/concepts/face-recognition
 
 ### Architecture:
-![Architecture] (images/![img_1.png](img_1.png)) <br/>
+![Architecture](images/![img_1.png]) <br/>
 
 
 ## How to use API
